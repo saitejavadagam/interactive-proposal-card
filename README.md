@@ -90,3 +90,10 @@ Compile and bundle the production files in the `/dist` directory:
 ```bash
 npm run build
 ```
+
+---
+
+## 🤝 Attribution & Collaboration
+* **Concept & Design**: Directed and conceptualized by @saitejavadagam.
+* **Development & Optimization**: Built in partnership with **Antigravity AI (Gemini)**.
+
